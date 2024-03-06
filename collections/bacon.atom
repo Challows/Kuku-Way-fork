@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onky-special.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onky-special.myshopify.com/collections/bacon.atom"/>
+  <title>onky-special (password: buddha)</title>
+  <updated>2018-11-25T19:23:16-12:00</updated>
+  <author>
+    <name>onky-special (password: buddha)</name>
+  </author>
+  <entry>
+    <id>https://onky-special.myshopify.com/products/1515921768548</id>
+    <published>2018-11-25T19:23:16-12:00</published>
+    <updated>2018-11-25T19:23:16-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/products/seasonal-chops"/>
+    <title>Seasonal Chops</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Pig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0035/4195/8756/products/product31_f7202e94-ccba-4edf-8f10-925b336ee8b1.jpg?v=1543235271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pig<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            231.00 - 289.00
+            <a href="https://onky-special.myshopify.com/products/seasonal-chops">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>3 kg</s:tag>
+    <s:tag>Meat</s:tag>
+    <s:tag>Pig</s:tag>
+    <s:variant>
+      <id>https://onky-special.myshopify.com/products/1515921768548</id>
+      <title>3 kg</title>
+      <s:price currency="USD">231.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onky-special.myshopify.com/products/1515921768548</id>
+      <title>2 kg</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/products/1515890180196</id>
+    <published>2018-11-25T19:23:16-12:00</published>
+    <updated>2018-11-25T19:23:16-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/products/seasonal-stews"/>
+    <title>Seasonal Stews</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Pig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0035/4195/8756/products/product30_7c160d6f-f01a-43d1-a6e3-28a7079d0a89.jpg?v=1543235189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pig<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            129.00 - 189.00
+            <a href="https://onky-special.myshopify.com/products/seasonal-stews">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>3 kg</s:tag>
+    <s:tag>Meat</s:tag>
+    <s:tag>Pig</s:tag>
+    <s:variant>
+      <id>https://onky-special.myshopify.com/products/1515890180196</id>
+      <title>3 kg</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onky-special.myshopify.com/products/1515890180196</id>
+      <title>2 kg</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/products/1515826806884</id>
+    <published>2018-11-25T19:23:16-12:00</published>
+    <updated>2018-11-25T19:23:16-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/products/sausage-slice"/>
+    <title>Sausage Slice</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Chops</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0035/4195/8756/products/product27_46797f05-5fcf-4ece-8b86-364829745f91.jpg?v=1543234317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chops<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            329.00 - 489.00
+            <a href="https://onky-special.myshopify.com/products/sausage-slice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>2 kg</s:tag>
+    <s:tag>Chops</s:tag>
+    <s:tag>Meat</s:tag>
+    <s:variant>
+      <id>https://onky-special.myshopify.com/products/1515826806884</id>
+      <title>2 kg</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onky-special.myshopify.com/products/1515826806884</id>
+      <title>1 kg</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/products/1515074322532</id>
+    <published>2018-11-25T19:23:16-12:00</published>
+    <updated>2018-11-25T19:23:16-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/products/sausage-twin-piece"/>
+    <title>Sausage Twin Piece</title>
+    <s:type>Meat</s:type>
+    <s:vendor>Pig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0035/4195/8756/products/product18.jpg?v=1543230091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pig<br>
+        <strong>Type: </strong>Meat<br>
+        <strong>Price: </strong>
+            729.00 - 859.00
+            <a href="https://onky-special.myshopify.com/products/sausage-twin-piece">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>2 kg</s:tag>
+    <s:tag>Meat</s:tag>
+    <s:tag>Pig</s:tag>
+    <s:variant>
+      <id>https://onky-special.myshopify.com/products/1515074322532</id>
+      <title>2 kg</title>
+      <s:price currency="USD">729.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onky-special.myshopify.com/products/1515074322532</id>
+      <title>1 kg</title>
+      <s:price currency="USD">859.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

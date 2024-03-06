@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onky-special.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://onky-special.myshopify.com/blogs/news.atom"/>
+  <title>onky-special (password: buddha) - News</title>
+  <updated>2018-11-27T18:08:00-12:00</updated>
+  <author>
+    <name>onky-special (password: buddha)</name>
+  </author>
+  <entry>
+    <id>https://onky-special.myshopify.com/blogs/news/pork-meat-in-cool-room</id>
+    <published>2018-11-27T18:08:00-12:00</published>
+    <updated>2022-03-17T00:59:16-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news/pork-meat-in-cool-room"/>
+    <title>Pork meat in cool room</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design witho...</span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/blogs/news/raw-pork-rib</id>
+    <published>2018-11-27T18:06:00-12:00</published>
+    <updated>2022-03-17T00:06:39-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news/raw-pork-rib"/>
+    <title>Raw pork rib</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design without actually having to invest time and effort drafting copy.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/blogs/news/collection-of-pig-meat</id>
+    <published>2018-11-27T17:54:00-12:00</published>
+    <updated>2022-03-17T01:00:12-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news/collection-of-pig-meat"/>
+    <title>Collection of pig meat</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a littl...</span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/blogs/news/customer-choosing-the-piece</id>
+    <published>2018-11-27T17:53:00-12:00</published>
+    <updated>2018-11-27T17:54:54-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news/customer-choosing-the-piece"/>
+    <title>Customer choosing the piece</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design without actually having to invest time and effort drafting copy.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/blogs/news/two-raw-meat-samples</id>
+    <published>2018-11-27T17:52:00-12:00</published>
+    <updated>2018-11-27T17:53:41-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news/two-raw-meat-samples"/>
+    <title>Two raw meat samples</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design without actually having to invest time and effort drafting copy.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/blogs/news/cutting-meat-by-knife</id>
+    <published>2018-11-27T17:50:00-12:00</published>
+    <updated>2018-11-27T17:52:13-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news/cutting-meat-by-knife"/>
+    <title>Cutting meat by knife</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design without actually having to invest time and effort drafting copy.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/blogs/news/female-butcher-in-butchery</id>
+    <published>2018-11-27T17:47:00-12:00</published>
+    <updated>2018-11-27T17:50:19-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news/female-butcher-in-butchery"/>
+    <title>Female butcher in butchery</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design without actually having to invest time and effort drafting copy.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/blogs/news/cutting-meat-in-butchery</id>
+    <published>2018-11-27T17:44:00-12:00</published>
+    <updated>2018-11-27T17:46:12-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news/cutting-meat-in-butchery"/>
+    <title>Cutting meat in butchery</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design without actually having to invest time and effort drafting copy.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://onky-special.myshopify.com/blogs/news/butcher-in-meat-store</id>
+    <published>2018-11-27T17:38:00-12:00</published>
+    <updated>2018-11-27T17:40:51-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://onky-special.myshopify.com/blogs/news/butcher-in-meat-store"/>
+    <title>Butcher in meat store</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design without actually having to invest time and effort drafting copy.]]>
+    </content>
+  </entry>
+</feed>
